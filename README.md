@@ -4,7 +4,7 @@ Servers for 490 project
 
 
 
-Evidence of work can be seen through commits, Commits by Samuel Uong are normally the work of both Samuel Uong and Edwin Zhou working together. We have another repository where we tested the scrabble game itself before moving it to the 490 servers repository (https://github.com/suong4554/Scrabble-Service).
+We have another repository where we tested the scrabble game itself before moving it to the 490 servers repository (https://github.com/suong4554/Scrabble-Service).
   
 The dev server has all the project specific updates required of our team, the QA and PROD servers currently are on the midterm version of our deliverables for this class.  
   
